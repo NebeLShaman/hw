@@ -1,0 +1,21 @@
+{
+  "name": "arkanoid.gms",
+  "version": "1.0.0",
+  "description": "Arkanoid game. I continue to go deep into javascript. Pass mini-course on the creation of the game.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TechnoNinja",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "browser-sync": "^2.26.5",
+    "eslint": "^5.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-eslint": "^5.0.0",
+    "gulp-plumber": "^1.2.1"
+  }
+}
